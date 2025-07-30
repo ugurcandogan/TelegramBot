@@ -7,7 +7,3 @@ TELEGRAMBOT/
 ├── logger.py          # Log sistemi
 ├── config.py          # Ayarlar
 └── .env               # Token/API keyler
-
-
-
-deneme deneme denemeeee
