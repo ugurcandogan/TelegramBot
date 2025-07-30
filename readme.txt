@@ -1,5 +1,5 @@
 TELEGRAMBOT/
-├── bot.py             # Ana giriş dosyası
+├── main.py             # Ana giriş dosyası
 ├── handlers.py        # Komut ve buton fonksiyonları
 ├── scanner.py         # Binance sinyal tarayıcı
 ├── wallet.py          # Ödeme kontrol
