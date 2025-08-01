@@ -6,5 +6,5 @@ TELEGRAMBOT/
 ├── database.py        # MySQL işlemleri
 ├── logger.py          # Log sistemi
 ├── config.py          # Ayarlar
-├──gui.py              # Grafik Kullanıcı Arayüzü
+├── gui.py             # Grafik Kullanıcı Arayüzü
 └── .env               # Token/API keyler
